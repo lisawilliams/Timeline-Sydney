@@ -1,6 +1,7 @@
 // Script variables
 var timelineConfig = {
-	key: '0AsmHVq28GtVJdG1fX3dsQlZrY18zTVA2ZG8wTXdtNHc',
+	//key: '0AsmHVq28GtVJdG1fX3dsQlZrY18zTVA2ZG8wTXdtNHc',
+	key: 'https://docs.google.com/spreadsheets/d/1f_4sp-meNN-q_VV4TugB_Lqn6vl096Ll8ciFfGf9J50/pubhtml',
 	sheetName: 'Posts' // change to name of spreadsheet 'sheet' that contains the data
 }
  
